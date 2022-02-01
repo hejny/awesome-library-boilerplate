@@ -1,5 +1,15 @@
 # Awesome library
 
+<!--Badges-->
+
+ [![Package Quality](https://packagequality.com/shield/awesome-library-boilerplate.svg)](https://packagequality.com/#?package=awesome-library-boilerplate)
+ [![License](https://img.shields.io/github/license/hejny/awesome-library-boilerplate.svg?style=flat)](https://raw.githubusercontent.com/hejny/awesome-library-boilerplate/master/LICENSE)
+ [![NPM Version](https://badge.fury.io/js/@hejny%2Fawesome-library-boilerplate.svg)](https://www.npmjs.com/package/@hejny/awesome-library-boilerplate)
+ [![Known Vulnerabilities](https://snyk.io/test/github/hejny/awesome-library-boilerplate/badge.svg)](https://snyk.io/test/github/hejny/awesome-library-boilerplate)
+ [![Issues](https://img.shields.io/github/issues/hejny/awesome-library-boilerplate.svg?style=flat)](https://github.com/hejny/awesome-library-boilerplate/issues)
+
+<!--/Badges-->
+
 A very simple tool library for the awesome thing.
 
 # Install
