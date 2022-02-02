@@ -2,8 +2,7 @@
 
 <!--Badges-->
 
- [![Package Quality](https://packagequality.com/shield/awesome-library-boilerplate.svg)](https://packagequality.com/#?package=awesome-library-boilerplate)
- [![License](https://img.shields.io/github/license/hejny/awesome-library-boilerplate.svg?style=flat)](https://raw.githubusercontent.com/hejny/awesome-library-boilerplate/master/LICENSE)
+ [![License of Awesome library](https://img.shields.io/github/license/hejny/awesome-library-boilerplate.svg?style=flat)](https://github.com/hejny/awesome-library-boilerplate/blob/master/LICENSE)
  [![Known Vulnerabilities](https://snyk.io/test/github/hejny/awesome-library-boilerplate/badge.svg)](https://snyk.io/test/github/hejny/awesome-library-boilerplate)
  [![Issues](https://img.shields.io/github/issues/hejny/awesome-library-boilerplate.svg?style=flat)](https://github.com/hejny/awesome-library-boilerplate/issues)
 
