@@ -51,3 +51,13 @@ or *minor* or *major*. Scripts defined in package.json will test, lint, build, c
 # Thanks
 
 To boilerplate was used [my-awesome-greeter](https://github.com/caki0915/my-awesome-greeter).
+
+
+
+<!--Contributing-->
+
+## 🖋️ Contributing
+
+I am open to pull requests, feedback, and suggestions. Or if you like this utility, you can [☕ buy me a coffee](https://www.buymeacoffee.com/hejny) or [donate via cryptocurrencies](https://github.com/hejny/hejny/blob/main/documents/crypto.md).
+
+<!--/Contributing-->
