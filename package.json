@@ -1,7 +1,7 @@
 {
   "name": "awesome",
   "version": "0.0.2",
-  "description": "awesome description",
+  "description": "A very simple tool library for the awesome thing.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
