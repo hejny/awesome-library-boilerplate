@@ -30,7 +30,7 @@
         "jest": "24.8.0",
         "onchange": "3.3.0",
         "prettier": "github:prettier/prettier",
-        "ts-jest": "24.0.2",
+        "ts-jest": "29.0.5",
         "tslint": "5.17.0",
         "tslint-config-prettier": "1.18.0",
         "typedoc": "0.22.11",
