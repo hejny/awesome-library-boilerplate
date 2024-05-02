@@ -37,5 +37,15 @@
     },
     "files": [
         "lib/**/*"
+    ],
+    "funding": [
+        {
+            "type": "individual",
+            "url": "https://buymeacoffee.com/hejny"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/hejny/awesome-library-boilerplate/blob/main/README.md#%EF%B8%8F-contributing"
+        }
     ]
 }
