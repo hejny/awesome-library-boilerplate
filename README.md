@@ -6,8 +6,8 @@
 
 [![Known Vulnerabilities](https://snyk.io/test/github/hejny/awesome-library-boilerplate/badge.svg)](https://snyk.io/test/github/hejny/awesome-library-boilerplate)
 [![Issues](https://img.shields.io/github/issues/hejny/awesome-library-boilerplate.svg?style=flat)](https://github.com/hejny/awesome-library-boilerplate/issues)
-[![Socket](https://socket.dev/api/badge/npm/package/awesome)](https://socket.dev/npm/package/awesome)
 <!--[![License of Awesome library](https://img.shields.io/github/license/hejny/awesome-library-boilerplate.svg?style=flat)](https://github.com/hejny/awesome-library-boilerplate/blob/main/LICENSE)-->
+<!--[![Socket](https://socket.dev/api/badge/npm/package/awesome)](https://socket.dev/npm/package/awesome)-->
 
 <!--/Badges-->
 
